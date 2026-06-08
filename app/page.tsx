@@ -1,0 +1,1 @@
+export default function Page(){return <main><section><h1>ApplyPilot</h1><p>Light MVP for resume-based job matching and ATS tailoring.</p></section><section><h2>Next</h2><p>Resume upload, job scoring, and AI tailoring are being added.</p></section></main>}
